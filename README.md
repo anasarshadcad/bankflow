@@ -285,7 +285,7 @@ python data_generator/main.py
 Co-Founder and CEO at Insighterz | Data Engineering and AI
 
 📍 Mississauga, Ontario, Canada
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/anas-arshad-125059197/)) • 🌐 [Website]([https://github.com/your-username](https://id-preview--017c28d6-4a92-4fb0-9c8c-9736540b83bd.lovable.app/about)) 🐙 [Github]([https://github.com/anasarshadcad])
+🔗 [LinkedIn]([https://www.linkedin.com/in/anas-arshad-125059197/]) • 🌐 [Website]([https://github.com/your-username](https://id-preview--017c28d6-4a92-4fb0-9c8c-9736540b83bd.lovable.app/about]) 🐙 [Github]([https://github.com/anasarshadcad])
 
 ---
 
